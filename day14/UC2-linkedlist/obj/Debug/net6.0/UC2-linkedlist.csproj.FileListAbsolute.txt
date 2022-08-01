@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\bin\Debug\net6.0\UC2-linkedlist.exe
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\bin\Debug\net6.0\UC2-linkedlist.deps.json
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\bin\Debug\net6.0\UC2-linkedlist.runtimeconfig.json
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\bin\Debug\net6.0\UC2-linkedlist.dll
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\bin\Debug\net6.0\UC2-linkedlist.pdb
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.dll
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\refint\UC2-linkedlist.dll
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.pdb
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\UC2-linkedlist.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day14\UC2-linkedlist\obj\Debug\net6.0\ref\UC2-linkedlist.dll
