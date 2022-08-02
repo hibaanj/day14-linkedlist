@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\linkedlist\linkedlist\bin\Debug\net6.0\linkedlist.exe
+C:\Users\anjum\source\repos\linkedlist\linkedlist\bin\Debug\net6.0\linkedlist.deps.json
+C:\Users\anjum\source\repos\linkedlist\linkedlist\bin\Debug\net6.0\linkedlist.runtimeconfig.json
+C:\Users\anjum\source\repos\linkedlist\linkedlist\bin\Debug\net6.0\linkedlist.dll
+C:\Users\anjum\source\repos\linkedlist\linkedlist\bin\Debug\net6.0\linkedlist.pdb
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.AssemblyInfo.cs
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.dll
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\refint\linkedlist.dll
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.pdb
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\linkedlist.genruntimeconfig.cache
+C:\Users\anjum\source\repos\linkedlist\linkedlist\obj\Debug\net6.0\ref\linkedlist.dll
